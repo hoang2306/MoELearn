@@ -10,4 +10,6 @@ resource for learning mixture of experts (include paper, notebook, ...)
 *  🔥How does Mixture-of-Experts (MoE) work?🚀: https://www.kaggle.com/code/aliabdin1/how-does-mixture-of-experts-moe-work
 *  Mixture-of-Experts (MoE): The Birth and Rise of Conditional Computation: https://cameronrwolfe.substack.com/p/conditional-computation-the-birth
 
+## Youtube
+* Playlist: https://www.youtube.com/playlist?list=PLkyja1QUaq_CQ8z97kPvoDbipnIKpBrgM
 
